@@ -1,6 +1,6 @@
 # Library Management System
 
-Small system for Library Management via terminal, using C# .NET Core.
+Small System for Library Management via terminal, using C# .NET Core.
 
 ## Functionalities
 
